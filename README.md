@@ -8,9 +8,8 @@ This will be using the good game [Kerbal Space Program][], and the [Realism Over
 
 So if you enjoy science, but have never seen it accurately depicted in a sci-fi show, This is definitely for you.
 
-Premires, july 1st at [Cappuccino Cosmico][]
+Premires, July 1st at the Cappuccino Cosmico Youtube Channel.
 
 [Basic Science]:http://www.projectrho.com/public_html/rocket/misconceptions.php
 [Right Projects]:https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
 [Kerbal Space Program]:https://kerbalspaceprogram.com/en/
-[Cappuccino Cosmico]:
