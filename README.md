@@ -13,3 +13,4 @@ Premires, July 1st at the Cappuccino Cosmico Youtube Channel.
 [Basic Science]:http://www.projectrho.com/public_html/rocket/misconceptions.php
 [Right Projects]:https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
 [Kerbal Space Program]:https://kerbalspaceprogram.com/en/
+[Realism Overhaul]: http://forum.kerbalspaceprogram.com/index.php?/topic/90151-112-realism-overhaul-v1100-may-8/
