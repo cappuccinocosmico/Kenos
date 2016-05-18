@@ -1,9 +1,16 @@
 # Kenos
 
-This is the Github Repo For the up and comming TV Show Kenos.
+Do you love si-fi, but are sick to death of this old scientificly inacurate movie called *Star Wars*, confining the entire si-fi genera to a simple space western. And even when they are good, they continuesuly ignore [Basic Science][]
 
-In here you can find script and plot ideas, as well as some of the raw footage from production
+Then you have come to the right place, **Kenos** is a scientificly acurate picture of interplanatary space exploration that is set in 2100, all of this could have come about easily if we had just changed some laws and funded the [Right Projects][]
 
-Keep in Mind, This will contain all of the spoilers, for all of the upcomming episodes, so be forwarned.
+This will be using the good game [Kerbal Space Program][], and the [Realism Overhaul][] set of mods, in addition to other mods.
 
-If you would like to help out, just talk, or if you see a plothole, or simmilar problem open up a issue.
+So if you enjoy science, but have never seen it accurately depicted in a sci-fi show, This is definitely for you.
+
+Premires, july 1st at [Cappuccino Cosmico][]
+
+[Basic Science]:http://www.projectrho.com/public_html/rocket/misconceptions.php
+[Right Projects]:https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
+[Kerbal Space Program]:https://kerbalspaceprogram.com/en/
+[Cappuccino Cosmico]:
